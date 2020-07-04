@@ -1,5 +1,9 @@
 # vuetifytree
 
+Liquor Tree was modified so we can use it with Vuetify Grid. I wanted to display a nested tasks in first column and other attributes in other columns. But most tree componnets dont allow that. So I updated Liquor Tree to create one new row for each node.
+<br>
+##Work in Progress
+
 ## Project setup
 ```
 npm install
